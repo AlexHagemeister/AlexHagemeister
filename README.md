@@ -6,6 +6,8 @@ I'm Alex, a 4th-year EECS student at UC Berkeley, seizing a place upon the expon
 - Proven competence in roles both team-oriented and autonomous, including those with ill-defined parameters for success. 
 - Resilience working under pressure, adept at quickly grasping advanced concepts, and conversant with experts on high-level topics.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexHagemeister)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Current work (2022-present): 
 
 #### ML Research Assistant, UC Berkeley Center for Targeted Machine Learning
