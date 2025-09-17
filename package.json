@@ -1,0 +1,9 @@
+{
+  "name": "kairoscope",
+  "version": "1.0.0",
+  "description": "Kairoscope linear time visualization",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
