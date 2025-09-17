@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kairoscope – Linear Time Visualization</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="app">
+      <header class="top-bar" role="banner">
+        <h1>Kairoscope</h1>
+        <p class="tagline">A contemplative stream of time across every scale.</p>
+      </header>
+      <section class="visualization" aria-label="Flowing time stream">
+        <canvas id="timeline" role="img" aria-label="Dynamic timeline illustrating the flow of time."></canvas>
+        <div class="present-marker" aria-hidden="true"></div>
+        <div class="info-panels" aria-live="polite">
+          <div class="info scale-info">
+            <span class="label">Scale</span>
+            <span class="value" id="scaleValue"></span>
+          </div>
+          <div class="info focus-info">
+            <span class="label">Focus</span>
+            <span class="value" id="focusValue"></span>
+          </div>
+          <div class="info timezone-info">
+            <span class="label">Time zone</span>
+            <span class="value" id="timezoneValue"></span>
+          </div>
+        </div>
+      </section>
+      <section class="controls" aria-label="Visualization controls">
+        <div class="control-group zoom-control">
+          <label for="zoomSlider">Zoom</label>
+          <input
+            id="zoomSlider"
+            type="range"
+            min="-3"
+            max="9"
+            step="0.01"
+            value="2"
+            aria-describedby="zoomDescription"
+          />
+          <p id="zoomDescription" class="control-hint">
+            Drag the slider or pinch to move between milliseconds and years.
+          </p>
+        </div>
+        <div class="control-row">
+          <button type="button" id="resetButton" class="outline-button">Return to Present</button>
+          <button type="button" id="timezoneToggle" class="outline-button" aria-pressed="false">
+            Use Coordinated Universal Time
+          </button>
+        </div>
+      </section>
+      <footer class="bottom-hint" role="contentinfo">
+        <p>
+          Swipe or drag to explore. Double-tap or double-click to snap back. Keyboard
+          arrows nudge the timeline; <kbd>0</kbd> resets focus.
+        </p>
+      </footer>
+    </main>
+    <script src="script.js" type="module"></script>
+  </body>
+</html>
