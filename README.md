@@ -2,7 +2,7 @@
 
 San Francisco, CA  
 
-[GitHub](https://github.com/AlexHagemeister) | [LinkedIn](https://linkedin.com/in/alexhagemeister) | hagemeister.alex@gmail.com
+[Portfolio](https://alexhagemeister.github.io) | [GitHub](https://github.com/AlexHagemeister) | [LinkedIn](https://linkedin.com/in/alexhagemeister) | hagemeister.alex@gmail.com
 
 Fourth-year student building ML infrastructure and LLM applications. Recent work on RAG systems and production deployment pipelines. Seeking **New Grad 2026 roles** in ML engineering, backend systems, or applied AI.
 
