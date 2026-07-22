@@ -8,7 +8,7 @@ Fourth-year student building ML infrastructure and LLM applications. Recent work
 
 ## Education
 
-**University of California, Berkeley** | B.S. Electrical Engineering & Computer Science | Expected May 2026  
+**University of California, Berkeley** | B.S. Electrical Engineering & Computer Science | Expected Fall 2026  
 **De Anza Community College** | A.S. Mathematics | GPA: 3.93/4.0, Dean's List
 
 ## Technical Skills
