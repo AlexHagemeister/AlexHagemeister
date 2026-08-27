@@ -1,8 +1,10 @@
 # Alex Hagemeister
 
-San Francisco, CA  
+San Francisco, CA
 
-[Portfolio](https://alexhagemeister.dev) | [GitHub](https://github.com/AlexHagemeister) | [LinkedIn](https://linkedin.com/in/alexhagemeister) | hagemeister.alex@gmail.com
+🌐 **[alexhagemeister.dev](https://alexhagemeister.dev)**: personal site with projects, blog, and art
+
+[LinkedIn](https://linkedin.com/in/alexhagemeister) · [hello@alexhagemeister.dev](mailto:hello@alexhagemeister.dev)
 
 Fourth-year student building ML infrastructure and LLM applications. Recent work on RAG systems and production deployment pipelines. Seeking **New Grad 2026 roles** in ML engineering, backend systems, or applied AI.
 
